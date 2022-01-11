@@ -16,3 +16,6 @@
   * 변수 선언
   * 메서드
   * 메인 메서드
+* public static void main(String[] args)
+  * 어플리케이션이 실행되면 제일 먼저 main method 실행
+  * public: 접근제어자 => 어느 곳이든 해당 객체 참조 
